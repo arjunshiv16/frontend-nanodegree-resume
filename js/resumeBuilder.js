@@ -1,4 +1,7 @@
 /*
-var awesomethoughts ="I am asr and IM AWESOME"
-console.log(awesome thoughts)
+var formattedName = Htmlheadername.replace("%data%",name);
+var role= "Web developer";
+var formattedRole = HtmlHeaderRole.replace("%data%", role);
+$("#header").prepend(formattedRole);
+$("#header").prepend(formattedName);
  */
